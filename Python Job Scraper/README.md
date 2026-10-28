@@ -46,7 +46,7 @@ This project was built as part of the [roadmap.sh](https://roadmap.sh/) Python d
   python scraper.py
   (Alternatively, you can run the provided Jupyter Notebook Python job listing scraper.ipynb step by step).
   ```
-📂 Output
+📂 Output  
 Once executed successfully, the script will generate a file named job_listings.csv in your project directory containing all the scraped listings.
 
 💡 What I Learned
@@ -58,7 +58,7 @@ How to use CSS selectors and classes with BeautifulSoup to extract clean text an
 
 How to write and format data into CSV files using Python.
 
-🤝 Contributing
+🤝 Contributing  
 Contributions, issues, and feature requests are welcome! Feel free to check out the issues page.
 
 
