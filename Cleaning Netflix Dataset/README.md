@@ -37,7 +37,7 @@ Raw datasets frequently contain structural anomalies, missing values, and format
 └── README.md                         # Project documentation
 ```
 🌐 Live Project URL
-https://drive.google.com/file/d/1g8TbWz_nJoNqGW2-lR9oFSJjntjRkpbH/view?usp=sharing
+[https://drive.google.com/file/d/1g8TbWz_nJoNqGW2-lR9oFSJjntjRkpbH/view?usp=sharing](https://colab.research.google.com/drive/1g8TbWz_nJoNqGW2-lR9oFSJjntjRkpbH#scrollTo=bb251df5-9c1f-4210-ba0f-e54bd19bd189)
 
 🚀 How to Run Locally
 Clone this repository or download the source files.
